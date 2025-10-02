@@ -4,22 +4,12 @@
 
 <!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=Sayed%20Tag-Eldin&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00CFFF&height=200&section=header&text=Habiaba%20Tag-Mohamed&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Header"/>
 </p>
-
 <h3 align="center">🚀 AI/ML Engineer | Data Scientist </h3>
+</p> 
 
-<!-- <p align="center">
-  <a href="https://www.google.com/search?q=Sayed+Tag-Eldin">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20AI%20Solutions%20for%20Impact;Passionate%20Community%20Leader;Visit%20www.sayedtag.me&font=Fira%20Code&center=true&color=00CFFF&pause=2000">
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayedtageldin&style=flat&color=007BFF"/> <!-- Profile Views -->
-</p> -->
-
----
 
 ## 👋 About Me  
 
@@ -30,7 +20,7 @@ Actively mentoring peers at **Arabian Academy**. Participated in national progra
 **ECPC 2024 and 2025**, enhancing my problem-solving and algorithmic thinking skills. 
   
 
----
+
 
 ## 🏆 Achievements  
 
@@ -42,14 +32,12 @@ Actively mentoring peers at **Arabian Academy**. Participated in national progra
   <strong>🥇 Ranked among the top 50 teams out of 207 participating teams in ECPC Qualifications. Achieved 11th place at faculty level out of 45 teams</strong><br>
 </div>
 
----
 
 ## 🚀 Featured Projects  
 
 ### 🔹 Wuzzuf AI Job Assistant  
 > *AI-Powered Job Recommendation & Market Analysis App Streamlit Web App | Job Insights from Wuzzuf *   
 
----
 
 ## 🐍 Contribution Snake  
 
@@ -57,7 +45,6 @@ Actively mentoring peers at **Arabian Academy**. Participated in national progra
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
----
 
 ## 📬 Contact Me  
 
